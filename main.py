@@ -2,7 +2,7 @@ print('Welcome to my Elite 101 Chatbot!')
 name = input('Please enter your name: ')
 # from video https://docs.google.com/file/d/13j0cet_64kgzaYWH5bRooVS8U2HHMVfs/preview
 age = input(f' Hi {name}! How old are you? ')
-print('Nice to meet you ' + name + '!' + f' Oh how to be {age} again!', end='') 
+print('Nice to meet you ' + name + '!' + f' You\'re {age}? How young! ', end='') 
 #end='' from StackOverflow 
 # https://stackoverflow.com/questions/4390942/how-can-i-show-
 # the-output-of-two-print-statements-on-the-same-line
