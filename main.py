@@ -27,7 +27,7 @@ def user_selection():
   elif user_choice == 4:  
     print(f'\nGoodbye {name}! Talk to you later!')
   else:
-    print("Sorry, That's not a valid choice. Please input one of the numbers!")
+    print("\nSorry, That's not a valid choice. Please input one of the numbers!")
 user_selection()
 
 
