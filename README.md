@@ -1,6 +1,6 @@
 # Introduction
-This is a repository created by Enisse
+This is a repository created by Enisse :D
 
 ## Usage
-run this command to execute the application
+Run this command to execute the application
 `python.Elite101Pre-Work.py`
